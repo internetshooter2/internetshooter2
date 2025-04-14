@@ -15,21 +15,18 @@
 
 ---
 
-## 🛠️ Built With
+## 🛠️ 
 
 - **C#** – Core game logic in Unity
-- **HTML + JavaScript** – UI, web integrations
-- **Python** – Backend experiments & scripting
-- **Photon PUN2** – Multiplayer setup
-- **Frutiger Aero aesthetic** – Because purple is 🔛🔝
+- **Photon PUN2** – Multiplayer setup  (soon to switch to steam API)
 
 ---
 
 ## ✨ Cool Stuff About Me
 
 - 🧠 Self-taught indie dev
-- 🎓 Currently studying Computer Science at Sheridan College
-- 🎮 Hoping to launch this baby on Steam and make dreams real
+- 🎓 Currently studying Computer Science & Network Engineering 
+- 🎮 Hoping to launch this baby on Steam and make dreams real (V1 will be private inside a discord stay tuned)
 - 😼 ![funny cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
@@ -38,8 +35,8 @@
 
 - ☣️ **Infection system** – One bite away from turning into a zombie smoothie
 - 🧃 **Stims & Meds** – Heal that virus or pay the price
-- 🎒 **Backpack Tetris** – Just like Tarkov, but you cry more
-- 🧱 **Deployable cover** – Drop walls like Fortnite, but cooler
+- 🎒 **Backpack Tetris** – Just like Tarkov with specific items going into their places.
+- 🧱 **Deployable cover** – Drop walls NOT LIKE Fortnite. MUCH MUCH COOLER AND NOT STUPID.
 - 🧠 **Smart zombies** – Loud guns = lots of new “friends”
 
 ---
